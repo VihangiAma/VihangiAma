@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ama Nishshanka</h1>
-<h3 align="center">A passionate fullstack developer in Sri Lnaka</h3>
+<h3 align="center">ICT Undergraduate at University of Ruhuna</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihangiama&label=Profile%20views&color=0e75b6&style=flat" alt="vihangiama" /> </p>
 
