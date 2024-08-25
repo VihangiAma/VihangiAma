@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vihangiama&label=Profile%20views&color=0e75b6&style=flat" alt="vihangiama" /> </p>
 
-- 🌱 I’m currently learning **Flutter,Java**
+- 🌱 I’m currently learning **Flutter | Java**
 
 - 📫 How to reach me **nishshankaama@gmail.com**
 
